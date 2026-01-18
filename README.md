@@ -99,3 +99,10 @@ jupyter notebook Hybrid_Acne_Detection_and_Classification.ipynb
 - This project is created for learning and academic practice
 - The code and results are intended for demonstration purposes
 - Model performance may vary depending on dataset and parameters
+
+- 
+## Collaboration
+This project was developed as a collaborative academic project.
+This repository represents my personal contribution and understanding
+of the overall project.
+
