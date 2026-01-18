@@ -36,7 +36,6 @@ Two approaches are implemented and compared:
 
 ## 📂 Project Structure
 Hybrid-Acne-Detection-and-Classification/
-│
 ├── Hybrid_Acne_Detection_and_Classification.ipynb
 ├── README.md
 └── requirements.txt
